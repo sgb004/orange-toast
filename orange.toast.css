@@ -1,3 +1,9 @@
+/**
+ * Orange Toast
+ * @author @sgb004 to Orange
+ * @version 1.0
+ */
+
 .o-toast {
 	position: fixed;
 	z-index: 999999;
