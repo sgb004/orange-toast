@@ -34,8 +34,20 @@
 	transition: opacity 1s;
 }
 
-.toast-info-loading {
-  background-color: #2f96b4;
+.toast-info, .toast-info-loading {
+	background-color: #008eb2;
+}
+
+.toast-error{
+	background-color: #b20000;
+}
+
+.toast-success{
+	background-color: #3bb200;
+}
+
+.toast-warning{
+	background-color: #fdbe00;
 }
 
 .o-toast > .toast-info {
