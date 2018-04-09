@@ -1,7 +1,7 @@
 /**
  * Orange Toast
  * @author @sgb004 to Orange
- * @Version 1.0
+ * @version 1.0
  */
 function OrangeToast( e, o ){
 	this.toastContainer = document.getElementById( e );
